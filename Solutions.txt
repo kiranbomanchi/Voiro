@@ -1,0 +1,11 @@
+1. 
+I use Python and R for most of my Data Analysis work.
+R language is mostly used for Statistics and Visualization work. We can do Data wrangling, Data engineering, Feature selection and all kinds of Analytical and Data science work. It can also handle large size database.
+
+Python can also do almost all Statistics and Visualization as R. What makes python better than R is that it is easy to maintain and they are robust. Python is completely open-source and it has high-level API like Machine Learning and Deep Learning which can be deployed easily.
+
+2.
+There was a steep increase in Inventory after 18th October until 23rd of October and sudden decrease in Inventory on 24th.
+
+3.
+Social Media Analytics project was the most difficult project which I worked on. We had to classify the text(tweets) as political and non-political using the Unsupervised Method. Building the model was difficult because we didn't have any source to build it. We had to visualize the important keywords, then do preprocessing of the data. After many trial and error, we found that Doc2vec from Gensim library for suitable for our problem and it gave us a good accuracy.
